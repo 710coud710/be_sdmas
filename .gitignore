@@ -1,0 +1,17 @@
+/venv
+/env
+
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# IDE configuration directory
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files directory
+tmp/
+temp/
